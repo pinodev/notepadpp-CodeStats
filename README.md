@@ -12,7 +12,7 @@ PinoDev's releases
 PinoDev's changes
 ----------------
 
-- [![Build status](https://ci.appveyor.com/api/projects/status/github/pinodev/notepadpp-CodeStats?svg=true&branch=last-pull-from-upstream)](https://ci.appveyor.com/project/pinodev/notepadpp-codestats/history) - Last version pulled from upstream
+- [![Build status](https://ci.appveyor.com/api/projects/status/github/pinodev/notepadpp-CodeStats?svg=true&branch=last-pull-from-upstream)](https://ci.appveyor.com/project/pinodev/notepadpp-codestats/history) - Last upstream version
 
 - [![Build status](https://ci.appveyor.com/api/projects/status/github/pinodev/notepadpp-CodeStats?svg=true&branch=prepared-hotfix-toggle)](https://ci.appveyor.com/project/pinodev/notepadpp-codestats/history) - Prepared hotfix toggle
 
