@@ -1,6 +1,27 @@
 notepadpp-CodeStats
 =====================
 
+
+PinoDev's releases
+----------------
+
+[![Github All Releases](https://img.shields.io/github/downloads/pinodev/notepadpp-CodeStats/total.svg)](https://github.com/pinodev/notepadpp-CodeStats/releases)
+[![GitHub Last Release](https://img.shields.io/github/release/pinodev/notepadpp-CodeStats.svg)](https://github.com/pinodev/notepadpp-CodeStats/releases)
+
+
+PinoDev's changes
+----------------
+
+- [![Build status](https://ci.appveyor.com/api/projects/status/github/pinodev/notepadpp-CodeStats?svg=true&branch=last-pull-from-upstream)](https://ci.appveyor.com/project/pinodev/notepadpp-codestats/history) - Last version pulled from upstream
+
+- [![Build status](https://ci.appveyor.com/api/projects/status/github/pinodev/notepadpp-CodeStats?svg=true&branch=prepared-hotfix-toggle)](https://ci.appveyor.com/project/pinodev/notepadpp-codestats/history) - Prepared hotfix toggle
+
+- [![Build status](https://ci.appveyor.com/api/projects/status/github/pinodev/notepadpp-CodeStats?svg=true&branch=special-hotfix-enabled)](https://ci.appveyor.com/project/pinodev/notepadpp-codestats/history) - Special hotfix enabled
+
+
+Upstream project
+----------------
+
 [![Github All Releases](https://img.shields.io/github/downloads/p0358/notepadpp-CodeStats/total.svg)](https://github.com/p0358/notepadpp-CodeStats/releases) [![GitHub release](https://img.shields.io/github/release/p0358/notepadpp-CodeStats.svg)](https://github.com/p0358/notepadpp-CodeStats/releases) [![Build status](https://ci.appveyor.com/api/projects/status/c34pe9fpnstehfe0?svg=true)](https://ci.appveyor.com/project/p0358/notepadpp-codestats)
 
 Code::Stats - Write code, level up, show off! A free stats tracking service for programmers. This plugin enables XP tracking in Notepad++.
